@@ -1,0 +1,9 @@
+.text {
+  color: red;
+}
+.text .text2 {
+  color: black;
+}
+.text .text2 .text3 {
+  color: white;
+}
